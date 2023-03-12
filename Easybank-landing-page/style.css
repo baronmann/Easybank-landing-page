@@ -90,7 +90,7 @@ li{
 
 blockquote{
     font-weight:400;
-    font-size:2.3rem ;
+    font-size:3rem ;
     color: hsl(233, 26%, 24%);
     margin-bottom: 3%;
     padding-bottom: 1.5rem;
@@ -704,9 +704,9 @@ margin: 1rem 0;
 }
 
 blockquote{
-    font-weight:350;
+    font-weight:400;
     padding: 7% 5% 5% 5% ;
-    font-size:2.5rem ;
+    font-size:2.3rem ;
     color: hsl(233, 26%, 24%);
     text-align: center;
 }
